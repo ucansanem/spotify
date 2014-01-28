@@ -1,1 +1,1 @@
-for the description of the puzzle, please visit https://www.spotify.com/us/jobs/tech/reversed-binary/
+for the description of the puzzle, please visit http://labs.spotify.com/puzzles/
