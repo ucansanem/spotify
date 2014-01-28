@@ -1,1 +1,1 @@
-for the puzzle description, please visit https://www.spotify.com/us/jobs/tech/catvsdog/
+for the puzzle description, please visit http://labs.spotify.com/puzzles/
